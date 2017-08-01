@@ -1,4 +1,18 @@
-# Tiny talking kitten
+# Elm Dojo!
+
+These exercise will help you master your Elm Language Skills!
+
+If you are new to Elm we recommend you read:
+
++ https://github.com/dwyl/learn-elm-architecture-in-javascript
++ https://github.com/dwyl/learn-elm
+
+
+
+# Tiny Talking Kitten
+
+![talking-kitten](https://user-images.githubusercontent.com/194400/28814433-7a3588aa-7695-11e7-8d72-c5327806f1bd.jpg)
+
 
 You have discovered a tiny talking kitten called Kevin.
 
