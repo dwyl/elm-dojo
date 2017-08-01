@@ -22,6 +22,12 @@ Run the tests with:
 $ npm test
 ```
 
+# Make the Tests Pass!
+
+You will need:
+
++ https://guide.elm-lang.org/reuse/modules.html
+
 ## Source
 
 Inspired by elm exercism (particularly the exercise Bob). [https://github.com/derekprior/exercism](https://github.com/derekprior/exercism)
